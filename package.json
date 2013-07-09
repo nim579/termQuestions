@@ -1,0 +1,17 @@
+{
+  "name": "term-questions",
+  "version": "0.1.0",
+  "description": "Creates a queue of stdin requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nim579/termQuestions"
+  },
+  "author": "Nick Iv",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "397dde1ea4e456ed7ea46689f4957c5d7dbbfd77"
+}
