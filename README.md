@@ -8,7 +8,7 @@ Creates a queue of stdin requests
 
 ## Methods
 
- * **addQuestion**(question, callback, *&lt;context&gt;*);
+ * **addQuestion**(question, callback, *&lt;context&gt;*)
 
 ## Use
 
